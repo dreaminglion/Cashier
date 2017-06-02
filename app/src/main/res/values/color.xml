@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="btn_selecter_1">#3CB371</color>
+    <color name="btn_selecter_2">#FF359660</color>
+    <color name="btn_not_selected">#6ed96e</color>
+    <color name="btn_not_selected_text">#dfe7df</color>
+</resources>
